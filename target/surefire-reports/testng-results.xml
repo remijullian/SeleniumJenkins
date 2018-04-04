@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23830" started-at="2017-11-25T08:07:39Z" finished-at="2017-11-25T08:08:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23830" started-at="2017-11-25T08:07:39Z" finished-at="2017-11-25T08:08:03Z">
+      <class name="com.tests.NewTest2">
+        <test-method status="PASS" signature="launchChrome()[pri:0, instance:com.tests.NewTest2@668bc3d5]" name="launchChrome" duration-ms="23766" started-at="2017-11-25T13:37:39Z" finished-at="2017-11-25T13:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchChrome -->
+      </class> <!-- com.tests.NewTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
